@@ -1,3 +1,6 @@
 [submodule "project-api"]
 	path = project-api
 	url = https://github.com/akar97/project-api.git
+[submodule "project-api-1"]
+	path = project-api-1
+	url = https://github.com/akar97/project-api-1.git
